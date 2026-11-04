@@ -37,19 +37,23 @@ Server cần đúng bộ mod, nên dùng launcher khác sẽ thiếu mod hoặc 
 
 - **Đấu Xếp Hạng:** Đấu Đôi 4v4 tính Elo và Đấu Đơn 6v6.
 - **BattleTower:** 555 tầng, mỗi tầng có luật riêng.
-- **Raid Thế Giới, Boss Bang, Bang Hội Chiến.**
+- **Bang hội:** Bang Hội Chiến, Boss Bang, khoá đất riêng cho từng thành viên.
+- **Raid Thế Giới, NPC Tiền Thưởng.**
 - **Legendary tích luỹ:** tỉ lệ tăng dần khi server lâu chưa có Legendary, cùng Giờ Vàng Thứ 7, Chủ Nhật, 20h-22h.
 - **Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Câu cá.**
 - **Mini-game:** Tiến Lên, Cờ Tỷ Phú, Cờ Vua.
 
 ## Hướng dẫn chi tiết
 
+- [Server Cobblemon Việt Nam: Coco Cobblemon](docs/server-cobblemon-viet-nam.md)
 - [Cách vào server Coco Cobblemon](docs/cach-vao-server.md)
 - [Tính năng Mùa 2](docs/tinh-nang.md)
 - [Tải CocoLauncher cho Windows, macOS, Android](docs/tai-cocolauncher.md)
+- [Chơi Cobblemon trên điện thoại Android](docs/cobblemon-dien-thoai.md)
 - [Cách tải Cobblemon cho Minecraft Java](docs/cach-tai-cobblemon.md)
 - [Cobblemon Việt Hoá: chơi bằng tiếng Việt](docs/cobblemon-viet-hoa.md)
 - [Sửa lỗi CocoLauncher](docs/sua-loi-cocolauncher.md)
+- [Nhật ký cập nhật](docs/cap-nhat.md)
 
 ## Hỏi đáp
 
@@ -69,7 +73,7 @@ Không phần mềm nào được bảo đảm tuyệt đối, nên hãy tự ki
 Tải CocoLauncher và vào server không mất phí. Trong game có Rank và Battle Pass Premium, đều không bắt buộc.
 
 ### Chơi trên điện thoại được không?
-Được trên Android bằng CocoLauncher Android, đây là bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Hiện chưa có bản iOS.
+Được trên Android bằng CocoLauncher Android, đây là bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Hiện chưa có bản iOS. Cách cài ở trang [Chơi Cobblemon trên điện thoại](docs/cobblemon-dien-thoai.md).
 
 ### Có chơi được bằng Minecraft Bedrock hay PE không?
 Không. Cobblemon là mod cho Java Edition.
@@ -87,4 +91,4 @@ Vào Discord: https://discord.gg/hyspace
 
 Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
 
-*Cập nhật: 02/11/2026*
+*Cập nhật: 04/11/2026*

@@ -64,4 +64,6 @@ The community and most server content are Vietnamese. The launcher and the in-ga
 
 Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
 
-*Updated: 02/11/2026*
+More (in Vietnamese): [Vietnamese Cobblemon server overview](docs/server-cobblemon-viet-nam.md) · [Playing on Android](docs/cobblemon-dien-thoai.md) · [Changelog](docs/cap-nhat.md)
+
+*Updated: 04/11/2026*

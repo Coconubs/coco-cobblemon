@@ -4,7 +4,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 
 ## Đấu trận
 
-- **Đấu Xếp Hạng:** Đấu Đôi 4v4 tính Elo và Đấu Đơn 6v6.
+- **Đấu Xếp Hạng:** Đấu Đôi 4v4 tính Elo và Đấu Đơn 6v6. Ghép được trận thì có âm thanh báo.
 - **BattleTower:** 555 tầng, mỗi tầng có luật riêng, nhận BP mỗi sáng theo tầng đã leo.
 - **Ải Viễn Chinh:** 3 lượt mỗi ngày, thưởng tiền, Tokens và Rare Candy.
 - **Gym:** thử thách huấn luyện viên NPC.
@@ -21,6 +21,9 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 ## Bang hội
 
 Bang Hội Chiến, Boss Bang, Quà Bang và nhiệm vụ bang.
+
+- **Khoá đất riêng:** `/dat khoa` hoặc tab ĐẤT trong menu Bang hội. Đất bạn claim chỉ còn bạn và tối đa 30 người tin cậy dùng được.
+- **Chat bang:** `/banghoi chat` để bật, tắt.
 
 ## Việc hằng ngày
 
@@ -40,4 +43,4 @@ Launcher, Menu và Hướng dẫn của Coco bằng tiếng Việt, kèm nút ch
 
 [Trang chính](../README.md) · [Cách vào server](cach-vao-server.md) · [Tải CocoLauncher](tai-cocolauncher.md) · [Sửa lỗi](sua-loi-cocolauncher.md) · [Discord](https://discord.gg/hyspace)
 
-*Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon. Cập nhật: 02/11/2026.*
+*Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon. Cập nhật: 04/11/2026.*
