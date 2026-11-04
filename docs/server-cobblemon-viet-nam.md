@@ -52,6 +52,6 @@ Xem trước trang [Sửa lỗi CocoLauncher](sua-loi-cocolauncher.md), chưa đ
 
 ---
 
-[Trang chính](../README.md) · [Tính năng](tinh-nang.md) · [Cập nhật](cap-nhat.md) · [Discord](https://discord.gg/hyspace)
+[Trang chính](../README.md) · [Tính năng](tinh-nang.md) · [Cập nhật](cap-nhat.md) · [English](vietnam-cobblemon-server.md) · [Discord](https://discord.gg/hyspace)
 
 *Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon. Cập nhật: 04/11/2026.*

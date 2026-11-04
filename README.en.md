@@ -61,12 +61,13 @@ No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an expe
 The community and most server content are Vietnamese. The launcher and the in-game menu have an English option, and some content from Cobblemon and other mods may appear in English.
 
 ### What is Hyper Space?
+
 Hyper Space is the name of the Coco Cobblemon community Discord server: https://discord.gg/hyspace. Some older videos call the server Coco's Hyper Space; it is the same server, Coco Cobblemon.
 
 ## Notice
 
 Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
 
-More (in Vietnamese): [Vietnamese Cobblemon server overview](docs/server-cobblemon-viet-nam.md) · [Playing on Android](docs/cobblemon-dien-thoai.md) · [Changelog](docs/cap-nhat.md)
+More: [Cobblemon server in Vietnam](docs/vietnam-cobblemon-server.md) · In Vietnamese: [Vietnamese Cobblemon server overview](docs/server-cobblemon-viet-nam.md) · [Playing on Android](docs/cobblemon-dien-thoai.md) · [Changelog](docs/cap-nhat.md)
 
 *Updated: 04/11/2026*
