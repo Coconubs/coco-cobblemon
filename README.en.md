@@ -58,7 +58,7 @@ Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel. The launcher gi
 
 ### Can I play on Bedrock or Pocket Edition?
 
-No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an experimental build that runs Java Edition and needs at least 6 GB of RAM. There is no iOS version.
+No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an experimental build that runs Java Edition and needs at least 6 GB of RAM, see [Play Cobblemon on Android](docs/cobblemon-android.md). There is no iOS version.
 
 ### Do I need to speak Vietnamese?
 
@@ -72,6 +72,6 @@ Hyper Space is the name of the Coco Cobblemon community Discord server: https://
 
 Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
 
-More: [Cobblemon server in Vietnam](docs/vietnam-cobblemon-server.md) · In Vietnamese: [Vietnamese Cobblemon server overview](docs/server-cobblemon-viet-nam.md) · [Playing on Android](docs/cobblemon-dien-thoai.md) · [Changelog](docs/cap-nhat.md)
+More: [Cobblemon server in Vietnam](docs/vietnam-cobblemon-server.md) · [Play Cobblemon on Android](docs/cobblemon-android.md) · In Vietnamese: [Vietnamese Cobblemon server overview](docs/server-cobblemon-viet-nam.md) · [Playing on Android](docs/cobblemon-dien-thoai.md) · [Changelog](docs/cap-nhat.md)
 
 *Updated: 04/11/2026*

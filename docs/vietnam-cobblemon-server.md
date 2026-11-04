@@ -34,7 +34,7 @@ The server needs its exact mod set. Joining with another launcher usually ends w
 ## Which devices work
 
 - Windows and macOS: yes.
-- Android: experimental build that runs Java Edition, needs 6 GB of RAM or more.
+- Android: experimental build that runs Java Edition, needs 6 GB of RAM or more. See [Play Cobblemon on Android](cobblemon-android.md).
 - Linux: no launcher build yet.
 - iPhone and iPad: not available.
 - Minecraft Bedrock and Pocket Edition: no, Cobblemon is a Java Edition mod.
