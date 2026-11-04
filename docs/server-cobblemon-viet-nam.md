@@ -36,6 +36,7 @@ Server cần đúng bộ mod, nên vào bằng launcher khác thường bị thi
 
 - Windows, macOS: chơi được, cài launcher như trên.
 - Android: có bản thử nghiệm, cần RAM từ 6 GB. Xem [Chơi Cobblemon trên điện thoại](cobblemon-dien-thoai.md).
+- Linux: chưa có bản launcher.
 - iPhone, iPad: chưa có.
 - Minecraft Bedrock, PE: không chơi được, vì Cobblemon là mod cho Java Edition.
 

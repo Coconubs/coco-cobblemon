@@ -73,6 +73,9 @@ Không phần mềm nào được bảo đảm tuyệt đối, nên hãy tự ki
 ### Chơi Coco Cobblemon có mất phí không?
 Tải CocoLauncher và vào server không mất phí. Trong game có Rank và Battle Pass Premium, đều không bắt buộc.
 
+### Máy tính cần cấu hình thế nào?
+Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac. Launcher mặc định cấp cho game 2 đến 4 GB RAM, nên máy nên có từ 8 GB RAM. Chưa có bản cho Linux.
+
 ### Chơi trên điện thoại được không?
 Được trên Android bằng CocoLauncher Android, đây là bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Hiện chưa có bản iOS. Cách cài ở trang [Chơi Cobblemon trên điện thoại](docs/cobblemon-dien-thoai.md).
 

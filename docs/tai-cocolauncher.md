@@ -21,6 +21,12 @@ Chỉ tải từ các link trên. Bản đăng lại ở trang khác có thể �
 - Lưu nhiều tên chơi, chỉnh RAM, độ phân giải, thư mục game.
 - Xem số người online. Giao diện tiếng Việt và tiếng Anh.
 
+## Máy tính cần gì
+
+- Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac chip Apple hay Intel.
+- RAM: launcher mặc định cấp cho game 2 đến 4 GB, nên máy nên có từ 8 GB RAM. Mức RAM đổi được trong cài đặt của launcher.
+- Linux: chưa có bản CocoLauncher.
+
 ## Cài trên Windows
 
 1. Cài từ Microsoft Store, hoặc tải file .exe rồi mở.
@@ -53,4 +59,4 @@ Kết quả phải trùng mã `sha256` hiện cạnh file trên [GitHub Releases
 
 [Trang chính](../README.md) · [Cách vào server](cach-vao-server.md) · [Tính năng](tinh-nang.md) · [Sửa lỗi](sua-loi-cocolauncher.md) · [Discord](https://discord.gg/hyspace)
 
-*CocoLauncher và Coco Cobblemon không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon. Cập nhật: 02/11/2026.*
+*CocoLauncher và Coco Cobblemon không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon. Cập nhật: 04/11/2026.*

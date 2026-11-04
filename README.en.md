@@ -52,6 +52,10 @@ The address is `coco.ultramc.co`, Minecraft Java 1.21.1. CocoLauncher connects a
 
 Downloading CocoLauncher and joining the server is free. Ranks and the Premium Battle Pass are optional.
 
+### What computer do I need?
+
+Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel. The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended. There is no Linux build yet.
+
 ### Can I play on Bedrock or Pocket Edition?
 
 No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an experimental build that runs Java Edition and needs at least 6 GB of RAM. There is no iOS version.
