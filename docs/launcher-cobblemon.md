@@ -36,6 +36,6 @@ Modrinth App, CurseForge App, Prism Launcher và CocoLauncher đều tải khôn
 
 ---
 
-[Trang chính](../README.md) · [Cách tải Cobblemon](cach-tai-cobblemon.md) · [Tải CocoLauncher](tai-cocolauncher.md) · [Discord](https://discord.gg/hyspace)
+[Trang chính](../README.md) · [Cách tải Cobblemon](cach-tai-cobblemon.md) · [Tải CocoLauncher](tai-cocolauncher.md) · [English](cobblemon-launcher.md) · [Discord](https://discord.gg/hyspace)
 
 *Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company, nhóm phát triển Cobblemon, Modrinth, CurseForge hay Prism Launcher. Cập nhật: 04/11/2026.*

@@ -72,6 +72,6 @@ Hyper Space is the name of the Coco Cobblemon community Discord server: https://
 
 Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
 
-More: [Cobblemon server in Vietnam](docs/vietnam-cobblemon-server.md) · [Play Cobblemon on Android](docs/cobblemon-android.md) · In Vietnamese: [Vietnamese Cobblemon server overview](docs/server-cobblemon-viet-nam.md) · [Playing on Android](docs/cobblemon-dien-thoai.md) · [Changelog](docs/cap-nhat.md)
+More: [Cobblemon server in Vietnam](docs/vietnam-cobblemon-server.md) · [Play Cobblemon on Android](docs/cobblemon-android.md) · [Which launcher for Cobblemon](docs/cobblemon-launcher.md) · In Vietnamese: [Vietnamese Cobblemon server overview](docs/server-cobblemon-viet-nam.md) · [Playing on Android](docs/cobblemon-dien-thoai.md) · [Changelog](docs/cap-nhat.md)
 
 *Updated: 04/11/2026*
