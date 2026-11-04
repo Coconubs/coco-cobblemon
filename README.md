@@ -51,6 +51,7 @@ Server cần đúng bộ mod, nên dùng launcher khác sẽ thiếu mod hoặc 
 - [Tải CocoLauncher cho Windows, macOS, Android](docs/tai-cocolauncher.md)
 - [Chơi Cobblemon trên điện thoại Android](docs/cobblemon-dien-thoai.md)
 - [Cách tải Cobblemon cho Minecraft Java](docs/cach-tai-cobblemon.md)
+- [Launcher nào để chơi Cobblemon: Modrinth App, CurseForge, Prism, CocoLauncher](docs/launcher-cobblemon.md)
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](docs/pokemon-trong-minecraft.md)
 - [Cobblemon Việt Hoá: chơi bằng tiếng Việt](docs/cobblemon-viet-hoa.md)
 - [Sửa lỗi CocoLauncher](docs/sua-loi-cocolauncher.md)

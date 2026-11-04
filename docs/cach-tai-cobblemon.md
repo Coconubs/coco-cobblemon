@@ -16,7 +16,7 @@ Dành cho chơi một mình hoặc server riêng. Bản này không vào đượ
 2. Tìm **Cobblemon Official Modpack** trong tab Modpacks, chọn bản Fabric, bấm Install. App tự tải đúng Minecraft, Fabric và mod phụ thuộc.
 3. Trong cài đặt instance, tăng RAM nếu game chậm, rồi bấm Play.
 
-Cũng có thể tải riêng mod tại [trang Cobblemon trên Modrinth](https://modrinth.com/mod/cobblemon), nhưng phải tự cài Fabric Loader, Fabric API và Fabric Language Kotlin.
+Cũng có thể tải riêng mod tại [trang Cobblemon trên Modrinth](https://modrinth.com/mod/cobblemon), nhưng phải tự cài Fabric Loader, Fabric API và Fabric Language Kotlin. So sánh các launcher ở trang [Launcher nào để chơi Cobblemon](launcher-cobblemon.md).
 
 ## Lỗi hay gặp
 
