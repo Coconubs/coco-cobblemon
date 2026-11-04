@@ -84,6 +84,9 @@ Có. Launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt
 ### Cách tải Cobblemon để chơi cùng người Việt?
 Cách nhanh nhất để chơi trên server Coco Cobblemon là tải CocoLauncher, launcher tự cài đúng phiên bản Cobblemon. Nếu muốn chơi bản gốc một mình, có thể dùng Modrinth App với Cobblemon Official Modpack.
 
+### Hyper Space là gì?
+Hyper Space là tên server Discord của cộng đồng Coco Cobblemon, vào ở https://discord.gg/hyspace. Một số video cũ gọi server là Coco's Hyper Space, đó vẫn là Coco Cobblemon.
+
 ### Hỗ trợ ở đâu?
 Vào Discord: https://discord.gg/hyspace
 
