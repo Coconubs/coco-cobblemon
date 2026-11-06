@@ -1,6 +1,6 @@
 # Server Cobblemon Việt Nam: Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Server đang ở Mùa 2, chạy Minecraft 1.21.1 với Fabric và Cobblemon 1.7.3.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Server chạy Minecraft 1.21.1 với Fabric và Cobblemon 1.7.3.
 
 | | |
 |---|---|
@@ -22,7 +22,7 @@ Người mới thường bắt đầu bằng bắt Pokémon, sau đó mới đá
 - Raid Thế Giới và NPC Tiền Thưởng xuất hiện theo giờ.
 - Việc hằng ngày: điểm danh, Battle Pass, Nghề nghiệp, câu cá có sổ sưu tập, Kit Rank mỗi 3 ngày.
 
-Danh sách đầy đủ ở trang [Tính năng Mùa 2](tinh-nang.md). Thay đổi mới nhất ghi ở [Nhật ký cập nhật](cap-nhat.md).
+Danh sách đầy đủ ở trang [Tính năng](tinh-nang.md). Thay đổi mới nhất ghi ở [Nhật ký cập nhật](cap-nhat.md).
 
 ## Vào server thế nào
 
