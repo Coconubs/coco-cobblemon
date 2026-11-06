@@ -16,7 +16,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 
 | Platform | Download |
 |---|---|
-| Windows (recommended) | [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H) |
+| Windows (recommended) | [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=github-en) |
 | Windows installer | [Download .exe](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Setup.exe) |
 | macOS M1-M4 and newer (Apple silicon) | [Download .dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-AppleSilicon.dmg) |
 | macOS Intel | [Download .dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-Intel.dmg) |
