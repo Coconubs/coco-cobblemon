@@ -4,7 +4,7 @@ Các lỗi đã biết và cách xử lý theo từng hệ điều hành.
 
 ## Windows
 
-- **SmartScreen chặn file cài:** [cài từ Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H), hoặc [đối chiếu mã SHA-256](tai-cocolauncher.md#kiểm-tra-file-tải) trước khi chạy file .exe.
+- **SmartScreen chặn file cài:** [cài từ Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=github), hoặc [đối chiếu mã SHA-256](tai-cocolauncher.md#kiểm-tra-file-tải) trước khi chạy file .exe.
 - **Launcher báo game thoát mã 1 ngay sau khi bấm Chơi:** game dừng trước khi nạp mod. Ca đã gặp là ổ đĩa hết dung lượng, hãy dọn ổ rồi thử lại. Chi tiết lỗi nằm ở `instance/logs/launcher-game-output.log`.
 - **Game chậm hoặc văng:** chỉnh RAM ở mục Cấu hình nhanh trong launcher, tắt bớt ứng dụng khác.
 - **Mod lỗi sau khi tự chép file:** bỏ mod đó khỏi thư mục SideMods rồi bấm Chơi. Launcher kiểm tra lại gói mod mỗi lần chạy.
