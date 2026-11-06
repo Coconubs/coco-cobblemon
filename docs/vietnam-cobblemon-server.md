@@ -1,6 +1,6 @@
 # Cobblemon server in Vietnam: Coco Cobblemon
 
-Coco Cobblemon is a Minecraft Java server for the Cobblemon mod, run by and for the Vietnamese community. It is in Season 2 on Minecraft 1.21.1 with Fabric and Cobblemon 1.7.3. Players join through the server's own launcher, CocoLauncher.
+Coco Cobblemon is a Minecraft Java server for the Cobblemon mod, run by and for the Vietnamese community. It runs Minecraft 1.21.1 with Fabric and Cobblemon 1.7.3. Players join through the server's own launcher, CocoLauncher.
 
 | | |
 |---|---|
