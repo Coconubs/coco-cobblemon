@@ -47,7 +47,7 @@ Server cần đúng bộ mod, nên dùng launcher khác sẽ thiếu mod hoặc 
 
 - [Server Cobblemon Việt Nam: Coco Cobblemon](docs/server-cobblemon-viet-nam.md)
 - [Cách vào server Coco Cobblemon](docs/cach-vao-server.md)
-- [Tính năng Mùa 2](docs/tinh-nang.md)
+- [Tính năng](docs/tinh-nang.md)
 - [Tải CocoLauncher cho Windows, macOS, Android](docs/tai-cocolauncher.md)
 - [Chơi Cobblemon trên điện thoại Android](docs/cobblemon-dien-thoai.md)
 - [Cách tải Cobblemon cho Minecraft Java](docs/cach-tai-cobblemon.md)
