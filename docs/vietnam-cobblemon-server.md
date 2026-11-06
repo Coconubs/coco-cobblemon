@@ -25,7 +25,7 @@ Most new players start by catching Pokémon, then move on to battles and guilds.
 
 ## How to join
 
-1. Download CocoLauncher from the [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H) on Windows, or pick another build from the [download table](../README.en.md#download-cocolauncher).
+1. Download CocoLauncher from the [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=github-en) on Windows, or pick another build from the [download table](../README.en.md#download-cocolauncher).
 2. Enter a player name and press **Play**. The launcher installs Java, Minecraft, Fabric and the server's mod set.
 3. In game, type `/menu` to open the guide.
 
