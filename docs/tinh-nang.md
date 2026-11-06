@@ -1,6 +1,6 @@
-# Tính năng Coco Cobblemon Mùa 2
+# Tính năng Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt. Trang này tổng hợp các hệ thống chính của Mùa 2 từ Hướng dẫn trong game.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt. Trang này tổng hợp các hệ thống chính của server từ Hướng dẫn trong game.
 
 ## Đấu trận
 
