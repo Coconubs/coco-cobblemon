@@ -53,6 +53,7 @@ The server needs its exact mod set, so other launchers will be missing mods or r
 
 ## Documentation
 
+- [Cobblemon server in Vietnam: ping, schedule, how to choose](https://coconubs.github.io/en/vietnam-cobblemon-server/)
 - [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/)
 - [How to join](https://coconubs.github.io/en/how-to-join/)
 - [Features](https://coconubs.github.io/en/features/)
