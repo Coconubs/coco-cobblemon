@@ -8,6 +8,7 @@
 |---|---|
 | **Server address** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Hosted in** | Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026) |
 | **Language** | Vietnamese, with an English option in the launcher and in-game menu |
 | **Launcher** | [CocoLauncher](https://coconubs.github.io/en/cocolauncher/) for Windows, macOS and Android |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) |
@@ -40,6 +41,16 @@ The server needs its exact mod set, so other launchers will be missing mods or r
 - Accumulating Legendary chance and Legendary Golden Hours on Saturday and Sunday, 20:00-22:00 Vietnam time.
 - Shiny Fusion, Pokémon Eggs, Battle Pass, jobs, expeditions and fishing.
 
+## Quick answers
+
+**What is the best Cobblemon server in Vietnam?** There is no official ranking. Coco Cobblemon is a Vietnamese community server running Minecraft Java 1.21.1 and Cobblemon 1.7.3 at `coco.ultramc.co`, hosted in Singapore. When comparing servers, check the version, how mods are installed, ping, language, supported devices and what costs money.
+
+**Can I play in English?** The community is Vietnamese, but the launcher and the in-game menu have an English option (`/ngonngu en`).
+
+**Can I play on a phone?** On Android, with the experimental CocoLauncher Android (6 GB of RAM or more). There is no iOS version, and Bedrock or Pocket Edition cannot join because Cobblemon is a Java Edition mod.
+
+**Which Cobblemon version?** Cobblemon 1.7.3 plus the server's own mods. The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, so use CocoLauncher.
+
 ## Documentation
 
 - [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/)
@@ -54,4 +65,4 @@ The server needs its exact mod set, so other launchers will be missing mods or r
 
 Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
 
-*Updated: 06/11/2026*
+*Updated: 7 November 2026*

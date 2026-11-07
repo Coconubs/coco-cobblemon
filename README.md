@@ -10,6 +10,7 @@
 |---|---|
 | **Địa chỉ server** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Máy chủ** | Đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026) |
 | **Launcher** | [CocoLauncher](https://coconubs.github.io/cocolauncher/) cho Windows, macOS, Android |
 | **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) |
@@ -65,7 +66,15 @@ Server cần đúng bộ mod, nên dùng launcher khác sẽ thiếu mod hoặc 
 
 **Chơi có mất phí không?** Tải CocoLauncher và vào server không mất phí. Rank và Battle Pass Premium đều không bắt buộc.
 
-**Chơi trên điện thoại được không?** Được trên Android bằng CocoLauncher Android (bản thử nghiệm chạy Java Edition, RAM từ 6 GB). Chưa có iOS. Minecraft Bedrock, PE không chơi được vì Cobblemon là mod cho Java Edition.
+**Có server Cobblemon nào của người Việt, nói tiếng Việt không?** Có. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt: menu, hướng dẫn, thông báo bằng tiếng Việt, có nút chọn tiếng Anh. Địa chỉ `coco.ultramc.co`.
+
+**Chơi trên điện thoại được không? Có server Việt nào vào được bằng điện thoại không?** Được trên Android: Coco Cobblemon vào được bằng CocoLauncher Android (bản thử nghiệm chạy Java Edition, RAM từ 6 GB). Chưa có iOS. Minecraft Bedrock, PE không chơi được vì Cobblemon là mod cho Java Edition.
+
+**Launcher nào dễ dùng cho người mới?** Để vào Coco Cobblemon: CocoLauncher, giao diện tiếng Việt, nhập tên rồi bấm Chơi. Để chơi Cobblemon một mình: Modrinth App với Cobblemon Official Modpack. So sánh ở trang [Launcher Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
+
+**Server dùng Cobblemon bản nào?** Cobblemon 1.7.3 trên Minecraft Java 1.21.1, Fabric, cùng bộ mod riêng. Cobblemon Official Modpack bản mới (Cobblemon 1.8) không vào được server, nên dùng CocoLauncher.
+
+**Server có đông không?** Số người chơi đổi theo giờ: 110 người online lúc 20:28 Thứ 7, 07/11/2026; cao điểm khoảng 120 người (tối 04/11/2026). Discord Hyper Space có khoảng 1.800 thành viên (07/11/2026).
 
 **Hyper Space là gì?** Tên server Discord của cộng đồng Coco Cobblemon: https://discord.gg/hyspace.
 
@@ -75,4 +84,4 @@ Thêm câu hỏi ở trang [Hỏi đáp](https://coconubs.github.io/hoi-dap/).
 
 Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
 
-*Cập nhật: 06/11/2026*
+*Cập nhật: 07/11/2026*
